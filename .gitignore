@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+.venv-openmoderate/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Model files and caches
+models/
+model/
+.cache/
+huggingface_cache/
+*.onnx
+*.pt
+*.pth
+*.safetensors
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

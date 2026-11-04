@@ -1,0 +1,5 @@
+image_path,split,nudity,sexual_content,suggestive_content,violence,graphic_content,weapons,self_harm,hate_symbols,review_required
+data/raw/sample.png,test,0,0,0,0,0,0,0,0,0
+data/raw/WhatsApp Image 2026-05-19 at 08.59.49.jpeg,test,0,0,0,0,0,0,0,0,0
+data/raw/zingram-image.jpg,test,0,0,0,0,0,0,0,0,0
+data/raw/zingram-sticker.png,test,0,0,0,0,0,0,0,0,0
